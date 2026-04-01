@@ -27,7 +27,7 @@
         "acpi-s4",
         "requires-smm",
         "secure-boot",
-	"enrolled-keys",
+        "enrolled-keys",
         "verbose-dynamic"
     ],
     "tags": [

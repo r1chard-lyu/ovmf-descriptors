@@ -27,7 +27,7 @@
         "acpi-s3",
         "acpi-s4",
         "secure-boot",
-	"enrolled-keys",
+        "enrolled-keys",
         "verbose-dynamic"
     ],
     "tags": [
